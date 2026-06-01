@@ -1,9 +1,8 @@
 'use client'
 
-import PingPong from './PingPong';
+import PingPong from './PingPong'
 
 const page = () => {
-
   return (
     <>
       <PingPong />
